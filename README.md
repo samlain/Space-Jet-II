@@ -1,4 +1,4 @@
-# Space-Jet-II
+# Space Jet: II
 SpaceJet: II is a desktop-based Java arcade shooter inspired by the classic game Galaga. This project was created for my Computer Science I course as part of an assignment to demonstrate mastery of foundational programming concepts including classes, loops, conditionals, and object interaction. I chose to build a fast-paced, interactive space game where the player controls a jet, dodges incoming fire, and eliminates enemy ships to progress.
 
 The game is built using Java Swing for graphics and employs double buffering to ensure smooth rendering. Players begin by pressing any key to start and can pause or resume gameplay with the spacebar. Enemies appear in timed waves, and players can fire bullets to destroy them while navigating left and right across the screen. As the game progresses, mini-bosses appear with increased difficulty and new attack patterns. The player can collect power-ups to upgrade their bullets, and the game tracks score in real time, displaying it prominently on the screen.
